@@ -1,0 +1,26 @@
+/* css goes here */
+
+body {
+  font: 12px Fira Sans, sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.spacer-culture{
+	height: 200px;
+}
+.y-axis .domain{
+	display:none;
+}
+.subbar text{
+	font-size: 16px;
+}
+.legend-text{
+	font-size: 12px;
+	font-family: 'Fira Sans', sans-serif;
+}
